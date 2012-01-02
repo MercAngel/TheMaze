@@ -1,0 +1,27 @@
+name: TheMaze
+main: me.MercAngel.TheMaze.TheMaze
+version: 1.5b
+description: >
+             Create Random Maze.
+commands:
+  maze:
+    description: Show Maze settings.
+  mazecommand:
+    description: Show Maze Commands.
+  mazecreate:
+    description: CreateMaze.
+  mazeplace:
+    description: Place Maze in world.
+  mazeglow:
+    description: Trun glow stone on and off.
+  mazeroof:
+    description: Trun roof on and off.
+  mazelevel:
+    description: Toggle Numebr of floors from 1 to 2.
+  mazeroofid:
+    description: Set roof block type.
+  mazefloorid:
+    description: Set floor block type.
+  mazewallid:
+    description: Set Wall Block Type.
+  
